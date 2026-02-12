@@ -67,12 +67,20 @@ python3
 
 
 
-⚙ Installation
+⚙ kali Installation
 
 git clone https://github.com/deva3047/SERVER
 cd SERVER
 python server.py
 
+
+
+⚙ Termux Installation
+
+pkg update && pkg upgrade
+git clone https://github.com/deva3047/SERVER
+cd SERVER
+python3 server.py
 
 
 
