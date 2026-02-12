@@ -48,9 +48,6 @@ It is designed for **learning, testing, demo hosting, and secure local sharing**
 ## 💻 Supported Operating Systems
 - Kali Linux  
 - Ubuntu  
-- Debian  
-- WSL (Windows Subsystem for Linux)
-
 ---
 
 ## 📦 Requirements
@@ -70,7 +67,7 @@ python3
 ⚙ kali Installation
 
 git clone https://github.com/deva3047/CloudServe.git
-cd SERVER
+cd CloudServe
 python server.py
 
 
